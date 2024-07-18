@@ -1,0 +1,4 @@
+[submodule "src"]
+	path = src
+	url = git@github.com:evyatark2/src.git
+	branch = edition-1
